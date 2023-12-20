@@ -1,0 +1,154 @@
+head:
+  title: " Harish Kumar's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Harish Kumar."
+  subtitle: "Data Scientist"
+  description: "Eager Decision Science student with a strong background in machine learning, analytics tools, and a passion for data-driven decision-making; adept at collaborating, communicating insights effectively, and seeking internship opportunities to apply skills in Python, scikit-learn, PowerBI, SQL, and statistics for driving business impact."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Harish"
+    URL: "mailto:harishkumarn1112@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/harish-kumar-n-1106hk"
+
+    - icon: "github"
+      URL: "https://github.com/403ENDer"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/captain_hk_1106/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: <p class="lead">
+    <strong>I am dedicated Data scientist</strong> My passion is to derive insights from the large data sets.I have a strong knoweldge in programming and good problem solving abilities
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is get derive a useful insights from the data and provide meaningful decision to upgrade the business.
+    I have expertise in machine learning algorithms, deep learning models, natural lanugage processing.
+
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/harish-kumar-n-1106hk/"
+  image:
+    x: "img/who-am-i/user-picture-1.jpg"
+    _2x: "img/who-am-i/user-picture-1.jpg"
+    position: "right"
+
+# experience
+experience:
+  enable: true
+  title: "Responsible roles"
+  description: "During my tenure in college, I assumed pivotal roles where I served as a knowledge catalyst, leading and collaborating with diverse individuals. As a leader and team member, I facilitated the acquisition of valuable insights, honing my abilities to work seamlessly within a team. These experiences have not only enriched my leadership skills but have also equipped me with a profound understanding of effective teamwork dynamics."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/harish-kumar-n-1106hk/"
+  image:
+    x: "img/who-am-i/user-picture-1.jpg"
+    _2x: "img/who-am-i/user-picture-1.jpg"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/resume.pdf"
+
+  items:
+    - title: "Secretary"
+      company: "Datalytics Club of CIT"
+      duration: "May 2023 - Present"
+
+    - title: "Joint-Secretary"
+      company: "Datalytics Club of CIT"
+      duration: "May 2022 - Apr 2023"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Coimbatore Institute of Technology"
+      year: "2019-2026"
+      degree: "Master of Science Decision and Computing Sciences"
+
+    - university: "Adharsh Vidhyalaya higher secondary school"
+      year: "2017-2019"
+      degree: "Higher Secondary in Computer Science"
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+
+  enable_clients: false
+
+  works:
+    - title: "Maternal Health rish prediction"
+      description: "This application is designed for predicting maternal health risks, utilizing machine learning techniques. It has been developed as part of my Maternal Health Risk Prediction Project, demonstrating the application of advanced analytics to enhance outcomes in the realm of maternal healthcare."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "https://github.com/403ENDer/Maternal_health_risk_prediction-webapp"
+      image:
+        x: "img/works/maternal_prediction.jpg"
+        _2x: "img/works/maternal_prediction.jpg"
+      is_even: true
+
+    - title: "Telugana open dataset analysis"
+      description: "This dashboard, designed as part of my Shiny Predictive Dashboards Course, utilizes machine learning to analyze the Telugana open dataset. Its primary purpose is to assist Marketing and Research & Development teams in identifying growth trends, determining product gaps, and establishing optimal pricing for new products based on the insights derived from the dataset."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "https://github.com/403ENDer/Telangana-Growth-Analysis"
+      image:
+        x: "img/works/Telugana_open_data.jpg"
+        _2x: "img/works/Telugana_open_data.jpg"
+      is_even: false
+
+    - title: "View All Projects"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View All Projects"
+        URL: "https://github.com/403ENDer?tab=repositories"
+      image:
+        x: "img/works/all_projects.jpeg"
+        _2x: "img/works/all_projects.jpeg"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact Harish"
+
+  image:
+    x: "img/who-am-i/user-picture-1.jpg"
+    _2x: "img/who-am-i/user-picture-1.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: "mailto:harishkumarn1112@gmail.com"
+
+  phone:
+    title: "Phone Number"
+    number: "+91 96775 69532"
+  email:
+    title: "Email"
+    email: '<a href="mailto:harishkumarn1112@gmail.com">harishkumarn1112@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "3/240 Nambiyur , Erode , Tamil Nadu 638454"
