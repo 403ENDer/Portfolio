@@ -2,7 +2,7 @@ Certainly! Below is a template for a README file for your portfolio website. Thi
 
 ---
 
-# Your Name's Portfolio Website
+# Harish Kumar's Portfolio Website
 
 Welcome to the repository of my personal portfolio website! This website showcases my skills, projects, and experiences as a Harish Kumar Portfolio.
 
@@ -58,5 +58,5 @@ Explore the various sections of the website to learn more about my skills, proje
 
 You can reach me via:
 
-- Email: harishkumarnn112@gmail.com(mailto:harishkumarnn112@gmail.com)
-- LinkedIn: Harish Kumar N(https://www.linkedin.com/in/harish-kumar-n-1106hk/)
+- Email: [harishkumarnn112@gmail.com](mailto:harishkumarnn112@gmail.com)
+- LinkedIn: [Harish Kumar N](https://www.linkedin.com/in/harish-kumar-n-1106hk/)
