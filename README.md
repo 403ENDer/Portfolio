@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your portfolio website. This README file will provide essential information for users and potential employers who visit your GitHub repository.
 
----
 
 # Harish Kumar's Portfolio Website
 
