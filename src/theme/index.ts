@@ -4,6 +4,7 @@ import { PrimaryColors, PrimaryDarkColors } from "theme/colors/Colors";
 import { components } from "theme/component-styles/ComponentStyles";
 
 const config: ThemeConfig = {
+    initialColorMode: "dark",
     cssVarPrefix: "hk",
 };
 
