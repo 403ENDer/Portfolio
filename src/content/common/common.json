@@ -1,0 +1,30 @@
+{
+    "name": "Harish Kumar",
+    "logoType": {
+        "mobile": "HK",
+        "desktop": "Harish Kumar"
+    },
+    "mainPicture": "/assets/HK.jpg",
+    "mainPictureJPG": "/assets/HK.jpg",
+    "pronunciation": "/huh·rish.ku·maar/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "hk",
+    "email": "harishkumarn1112@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/harish-kumar-n-hk1112/",
+    "github": "https://github.com/403ENDer",
+    "resume": "https://drive.google.com/file/d/1EFJzozaIO_Cos6ntLTMKBH4ZmwObnooU/view?usp=drive_link",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/harish-kumar-n-hk1112/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/403ENDer"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:harishkumarn1112@gmail.com"
+        }
+    ]
+}

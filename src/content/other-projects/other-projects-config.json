@@ -1,0 +1,76 @@
+[
+    {
+        "id": "other-project-biddr",
+        "title": "Biddr",
+        "year": "Mar 2025 - Present",
+        "github": "https://github.com/403ENDer/biddingSimulator",
+        "tags": ["Next JS", "NodeJS", "Typescript", "MongoDB", "Express JS", "Sockets"],
+        "description": "Biddr is a web application that simulates the bidding problem in game theory, allowing players to strategize and compete in multiple auction scenarios. It helps analyze optimal bidding strategies and decision-making dynamics.",
+        "readMore": "https://github.com/403ENDer/biddingSimulator",
+        "image": "/assets/other-projects/biddr.jpg",
+        "jpg": "/assets/other-projects/biddr.jpg"
+    },
+    {
+        "id": "other-project-Ghilli",
+        "title": "Ghilli",
+        "year": "Mar 2025 - Present",
+        "github": "https://github.com/403ENDer/ghilli-api",
+        "tags": ["Next JS", "NodeJS", "Typescript", "MongoDB", "Express JS", "Sockets"],
+        "description": "Ghilli is a mobile application designed for organizing and scoring kabaddi matches, providing real-time updates and performance tracking for teams and players.It offers an intuitive interface to manage tournaments, record match statistics, and analyze player performance efficiently.",
+        "readMore": "https://github.com/403ENDer/ghilli-api",
+        "image": "/assets/other-projects/ghilli.png",
+        "jpg": "/assets/other-projects/ghilli.png"
+    },
+    {
+        "id": "other-project-customer-behaviour",
+        "title": "Customer Behaviour and Personality Predictor",
+        "year": "Jan 2024 - Jan 2024",
+        "github": "https://github.com/403ENDer/Cusotmer-personality-prediction",
+        "tags": ["Python", "Flask", "Pickle", "Scikit-Learn", "Machine Learning", "Pandas"],
+        "description": "Customer Personality Predictor analyzes purchase behavior to classify customers into specific types and predict their respective personalities. This helps businesses tailor personalized recommendations and improve customer engagement.",
+        "image": "/assets/other-projects/customer-personality.png",
+        "jpg": "/assets/other-projects/customer-personality.png"
+    },
+    {
+        "id": "other-project-recuirment",
+        "title": "Automated HR",
+        "year": "Nov 2023 - Dec 2023",
+        "github": "https://github.com/kkv-dinesh/Automating_Recruitment_Process",
+        "tags": ["Python", "Flask", "Natural Language Processing", "HTML", "CSS", "Machine Learning"],
+        "description": "Automated HR is an application that leverages natural language processing for resume screening, followed by a quiz to assess candidates. It selects candidates for the next round based on combined resume and quiz scores.",
+        "readMore": "https://github.com/kkv-dinesh/Automating_Recruitment_Process",
+        "image": "/assets/other-projects/automatedHR.png",
+        "jpg": "/assets/other-projects/automatedHR.png"
+    },
+    {
+        "id": "other-project-customer-lifetime-values",
+        "title": "Customer Lifetime Value",
+        "year": "May 2023 - Jul 2023",
+        "tags": ["Machine Learning", "Python", "Scikit-Learn", "Pandas", "Seaborn", "Google Collab"],
+        "github": "https://github.com/403ENDer/Life-time-value-prediction",
+        "description": "Customer Lifetime Value Prediction estimates the total value a customer will bring over their lifetime based on relevant features. This helps businesses optimize marketing strategies and improve customer retention.",
+        "readMore": "https://github.com/403ENDer/Life-time-value-prediction",
+        "image": "/assets/other-projects/clv.png",
+        "jpg": "/assets/other-projects/clv.png"
+    },
+    {
+        "id": "other-project-supermart-data",
+        "title": "Super mart Data Analysis",
+        "year": "Jan 2023 - Feb 2023",
+        "tags": ["Machine Learning", "Python", "Scikit-Learn", "Pandas", "Seaborn", "Google Collab", "Power BI"],
+        "description": "Supermarket Data Analysis uses K-means clustering to segment customers based on sales data, identifying their value to the business. Classification models are then applied to predict the behavior and value of future customers.",
+        "github": "https://github.com/403ENDer/Super-Market-Data-Analysis",
+        "image": "/assets/other-projects/supermarket.png",
+        "jpg": "/assets/other-projects/supermarket.png"
+    },
+    {
+        "id": "other-project-oracle Data analysis",
+        "title": "Oracle Financial Statement Analysis",
+        "year": "Nov 2022 - Dec 2022",
+        "tags": ["Power BI", "Data Cleaning", "Data Modeling", "Data Visulaization"],
+        "github": "https://github.com/403ENDer/Consolidated-Statements-Analysis-for-Oracle",
+        "description": "A dynamic dashboard analyzes Oracle's financial statements from 2019 to 2022, including the Balance Sheet, P&L, and Cash Flow. It also predicts the Compound Annual Growth Rate (CAGR) for key financial metrics.",
+        "image": "/assets/other-projects/oracle.png",
+        "jpg": "/assets/other-projects/oracle.png"
+    }
+]

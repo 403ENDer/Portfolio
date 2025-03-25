@@ -1,0 +1,68 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Coimbatore Institute of Technology",
+            "degree": "M.Sc Decision and Computing Sciences",
+            "duration": "Nov 2021 - May 2026",
+            "content": [
+                "GPA: 8.75/10",
+                "Courses: Machine Learning , Data Mining , Data Analytics , Full Stack Development , DBMS"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "NGP Websmart",
+            "position": "Software Engineer Intern (Backend)",
+            "duration": "Jun 2024 - Nov 2024",
+            "description": [
+                "Revamped the performance management system using AdonisJS, Node.js, and PostgreSQL, collaborating effectively with the team to ensure seamless functionality.",
+                "Developed an application called FIT BIT independently, demonstrating expertise in backend development and problem-solving.",
+                "Spearheaded multiple modules, enhancing system performance and introducing advanced features to optimize user experience."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "iNeuron.AI",
+            "position": "Machine Learning Engineer",
+            "duration": "Jan 2024 - Jan 2024",
+            "description": [
+                "Developed a Customer Personality Predictor application using Flask and Machine Learning to analyze customer traits effectively.​",
+                "Designed and implemented the application from scratch, providing data-driven insights for improved decision-making.",
+                "Delivered a seamless solution to predict customer behavior, enhancing targeted marketing strategies."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": ["TypeScript", "JavaScript", "Python", "C", "SQL"]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Vue", "NodeJS", "Flask", "OAuth", "Websockets", "AdonisJS", "ExpressJS"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "PostgresSQL", "MySQL"]
+        },
+        {
+            "title": "Data Science",
+            "tools": ["Pandas", "NumPy", "Matplotlib", "Scikit-Learn", "Seaborn", "PowerBI"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}

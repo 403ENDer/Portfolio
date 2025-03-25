@@ -1,0 +1,46 @@
+[
+    {
+        "id": "featured-project-inovice",
+        "title": "LearnPath",
+        "year": "Mar 2024 - Present",
+        "location": "Coimbatore",
+        "github": "https://github.com/403ENDer/learnPath",
+        "tags": ["Nextjs", "TypeScript", "NodeJS", "Datastructures", "MongoDB", "OAuth"],
+        "description": "A dynamic web app that generates and tracks personalized roadmaps based on user skills and proficiency levels. Enhances learning by providing a clear and structured growth path. Designed to help users achieve their goals efficiently",
+        "image": "/assets/featured-projects/learn-path.png",
+        "jpg": "/assets/featured-projects/learn-path.png"
+    },
+    {
+        "id": "featured-project-maternal-health",
+        "title": "Maternal Health Risk Predictor",
+        "year": "Nov 2023 - Dec 2023",
+        "github": "https://github.com/403ENDer/Maternal_health_risk_prediction-webapp",
+        "tags": ["HTML", "CSS", "Java Server Pages", "Python", "Machine Learning", "MySQL"],
+        "description": "A machine learning-based web app that predicts maternal health risks based on user input. Provides accurate health risk assessments with a user-friendly interface. Designed to support early intervention and improve maternal outcomes.",
+        "readMore": "https://github.com/403ENDer/Maternal_health_risk_prediction-webapp",
+        "image": "/assets/featured-projects/maternal-health.png",
+        "jpg": "/assets/featured-projects/maternal-health.png"
+    },
+    {
+        "id": "featured-project-dataHorizon",
+        "title": "DataHorizon Website",
+        "year": "Sep 2023 - Oct 2023",
+        "tags": ["HTML", "CSS", "Javascript", "Mailchimp", "MySQL"],
+        "github": "https://github.com/403ENDer/DataHorizon",
+        "description": "A micro-service architecture-based website developed for DataHorizon, a digital marketing company. Integrated multiple services for seamless operation and efficient management. Ensured secure data handling with optimized performance.",
+        "readMore": "https://github.com/403ENDer/DataHorizon",
+        "image": "/assets/featured-projects/datahorizon.png",
+        "jpg": "/assets/featured-projects/datahorizon.png"
+    },
+    {
+        "id": "featured-project-measure-telugana",
+        "title": "Telangana Growth Analysis",
+        "year": "Sep 2023 - Dec 2023",
+        "github": "https://github.com/403ENDer/Telangana-Growth-Analysis",
+        "tags": ["Power BI", "Excel", "Machine Learning"],
+        "description": "A comprehensive analysis of Telangana's past growth trends presented via an interactive dashboard. Provides visual insights into key metrics for better policy decisions. Incorporates predictive models to forecast future trends.",
+        "readMore": "https://github.com/403ENDer/Telangana-Growth-Analysis",
+        "image": "/assets/featured-projects/telangana.png",
+        "jpg": "/assets/featured-projects/telangana.png"
+    }
+]
