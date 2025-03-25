@@ -1,8 +1,13 @@
 [build]
-  command = "hugo"
+  command = "npm run build"
   context = "production"
   publish = "public"
 
 [context.production.environment]
   HUGO_VERSION = "0.78.0"
   HUGO_ENV = "production"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
